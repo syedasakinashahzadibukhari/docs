@@ -55,7 +55,7 @@ If your instance has subdomain isolation enabled:
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
-                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">'''i did no changes this is my first repo of opensourse im a begginer i dont nw what to do how to do '''
 
   <activeProfiles>
     <activeProfile>github</activeProfile>
